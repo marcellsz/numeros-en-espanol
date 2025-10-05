@@ -1,7 +1,7 @@
 {
-  "name": "numeros_en_espanol",
+  "name": "numeros-en-espanol",
   "version": "0.1.0",
-  "homepage": "https://marcellsz.github.io/numeros_en_espanol",
+  "homepage": "https://marcellsz.github.io/numeros-en-espanol",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
