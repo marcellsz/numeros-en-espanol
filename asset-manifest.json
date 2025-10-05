@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/numeros-en-espanol/static/css/main.34ebd8c1.css",
+    "main.js": "/numeros-en-espanol/static/js/main.94cc745f.js",
+    "static/js/453.22661200.chunk.js": "/numeros-en-espanol/static/js/453.22661200.chunk.js",
+    "index.html": "/numeros-en-espanol/index.html",
+    "main.34ebd8c1.css.map": "/numeros-en-espanol/static/css/main.34ebd8c1.css.map",
+    "main.94cc745f.js.map": "/numeros-en-espanol/static/js/main.94cc745f.js.map",
+    "453.22661200.chunk.js.map": "/numeros-en-espanol/static/js/453.22661200.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ebd8c1.css",
+    "static/js/main.94cc745f.js"
+  ]
+}
